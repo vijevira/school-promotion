@@ -48,8 +48,8 @@ modular-promo-banner/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/modular-promo-banner.git
-cd modular-promo-banner
+git clone https://github.com/vijevira/school-promotion.git
+cd school-promotion
 ```
 
 ### 2. Open in VS Code
