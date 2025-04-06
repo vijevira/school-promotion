@@ -1,0 +1,232 @@
+{
+    "promo1": {
+        "config": {
+            "imageUrl": "../assets/variant-a.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "phoneNumber": "+919876543210",
+            "headingAlignment": "center",
+            "headingSpans": [
+                { "text": "Personalised", "color": "#FC2810", "weight": "700" },
+                { "text": "Spoken", "color": "#000000", "weight": "600" },
+                { "br": true },
+                { "text": "English Classes", "color": "#FC2810", "weight": "700" }
+            ]
+        },
+        "variant": {
+            "left-decor": "a",
+            "promo-conetent": "a",
+            "promo-bg" :"a",
+            "promo-fg": "a"
+        }
+    },
+    "promo2": {
+        "config":  {
+            "imageUrl": "../assets/variant-b.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "textInsideBox": "Since 1997 | One Lakh Students Trained | 4 Branches",
+            "textBoxBgColor": "#006E75",
+            "headingAlignment": "left",
+            "headingSpans": [
+                { "text": "English", "color": "#006E75", "weight": "800" },
+                { "text": "Speaking", "color": "#FC2810", "weight": "800" },
+                { "br": true },
+                { "text": "Classes", "color": "#FC2810", "weight": "800" },
+                { "text": "Delhi", "color": "#006E75", "weight": "800" },
+                { "br": true }
+
+            ]
+        },
+        "variant": {
+            "left-decor": "b",
+            "promo-conetent": "a",
+            "promo-bg": "d",
+            "promo-fg": "c"
+        }
+    },
+    "promo3": {
+        "config":  {
+            "imageUrl": "../assets/variant-c.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "headingAlignment": "left",
+            "textInsideBox": "Since 1997 | Four Branches <br> One Lakh Students Trained",
+            "headingSpans": [
+                { "text": "Online", "color": "#FC2810", "weight": "200" },
+                { "text": "English", "color": "#006E75", "weight": "700" },
+                { "br": true },
+                { "text": "Speaking", "color": "#006E75", "weight": "700" },
+                { "text": "Course", "color": "#FC2810", "weight": "200" },
+                {"br": true},
+                { "icon": "../assets/icons/checkbox.png", "text": "One-to-One Online Live Classes", "color": "#006E75", "weight": "400", "size": "28px"},
+                { "icon": "../assets/icons/group.png", "text": "Online Live Groups Classes", "color": "#006E75", "weight": "400", "size": "28px"  }
+            ]
+        },
+        "variant": {
+            "left-decor": "c",
+            "promo-conetent": "a",
+            "promo-bg": "c",
+            "promo-fg": "b"
+        }
+    },
+    "promo4": {
+        "config": {
+            "imageUrl": "../assets/variant-d.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#006E75",
+            "durations": "3 Months",
+            "headingAlignment": "center",
+            "headingSpans": [
+                { "text": "Advanced", "color": "#006E75", "weight": "700" },
+                { "br": true },
+                { "text": "English", "color": "#FC2810", "weight": "700" },
+                { "text": "Speaking", "color": "#FC2810", "weight": "700" },
+                { "text": "Course", "color": "#FC2810", "weight": "700" }
+            ]
+        },
+        "variant": {
+            "left-decor": "a",
+            "promo-conetent": "a",
+            "promo-bg" :"a",
+            "promo-fg": "a"
+        }
+    },
+    "promo5": {
+        "config": {
+            "imageUrl": "../assets/variant-e.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "headingAlignment": "left",
+            "headingSpans": [
+                { "text": "Best", "color": "#FC2810", "weight": "800" },
+                { "text": "IELTS", "color": "#006E75", "weight": "800" },
+                { "text": "Coaching", "color": "#FC2810", "weight": "800" },
+                { "br": true },
+                { "text": "in", "color": "#FC2810", "weight": "800" },
+                { "text": "Delhi", "color": "#006E75", "weight": "800" },
+                { "text": "NCR", "color": "#006E75", "weight": "800" }
+            ]
+        },
+        "variant": {
+            "left-decor": "d",
+            "promo-conetent": "a",
+            "promo-bg" :"b",
+            "promo-fg": "d"
+        }
+    },
+    "promo6": {
+        "config": {
+            "imageUrl": "../assets/variant-f.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "durations": "1.5 Months",
+            "headingAlignment": "left",
+            "headingSpans": [
+                { "text": "Best", "color": "#FC2810", "weight": "800" },
+                { "text": "PTE", "color": "#006E75", "weight": "800" },
+                { "text": "Coaching", "color": "#FC2810", "weight": "800" },
+                { "br": true },
+                { "text": "in", "color": "#FC2810", "weight": "800" },
+                { "text": "Delhi", "color": "#006E75", "weight": "800" }
+            ]
+        },
+        "variant": {
+            "left-decor": "d",
+            "promo-conetent": "a",
+            "promo-bg" :"b",
+            "promo-fg": "d"
+        }
+    },
+    "promo7": {
+        "config": {
+            "imageUrl": "../assets/variant-g.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "durations": "1.5 Months",
+           "headingAlignment": "center",
+            "headingSpans": [
+                { "text": "Personality", "color": "#FC2810", "weight": "700" },
+                { "br": true },
+                { "text": "Development", "color": "#006E75", "weight": "700" },
+                { "br": true },
+                { "text": "Course", "color": "#FC2810", "weight": "700" }
+            ]
+        },
+        "variant": {
+            "left-decor": "c",
+            "promo-conetent": "a",
+            "promo-bg" :"c",
+            "promo-fg": "b"
+        }
+    },
+    "promo8": {
+        "config": {
+            "imageUrl": "../assets/variant-h.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "durations": "1.5 Months",
+           "headingAlignment": "center",
+            "headingSpans":[
+                { "text": "Best", "color": "#FC2810", "weight": "200" },
+                { "text": "PTE", "color": "#006E75", "weight": "700" },
+                { "text": "Coaching", "color": "#006E75", "weight": "700" },
+                { "text": "Online", "color": "#FC2810", "weight": "200" }
+            ]
+        },
+        "variant": {
+            "left-decor": "c",
+            "promo-conetent": "a",
+            "promo-bg" :"c",
+            "promo-fg": "b"
+        }
+    },
+    "promo9": {
+        "config": {
+            "imageUrl": "../assets/variant-i.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#006E75",
+            "durations": "3 Months",
+            "headingAlignment": "center",
+            "headingSpans": [
+                { "text": "Best", "color": "#FC2810", "weight": "700" },
+                { "text": "PTE", "color": "#006E75", "weight": "700" },
+                { "text": "and", "color": "#FC2810", "weight": "700" },
+                { "text": "English", "color": "#006E75", "weight": "700" },
+                { "text": "Coaching", "color": "#006E75", "weight": "700" },
+                { "text": "in", "color": "#FC2810", "weight": "700" },
+                { "text": "Delhi", "color": "#006E75", "weight": "700" }
+            ]
+        },
+        "variant": {
+            "left-decor": "d",
+            "promo-conetent": "a",
+            "promo-bg" :"b",
+            "promo-fg": "d"
+        }
+    },
+    "promo10": {
+        "config":  {
+            "imageUrl": "../assets/variant-j.png",
+            "leftDecorColor": "#FC2810",
+            "promoBgColor": "#FC2810",
+            "durations": "3 Months",
+            "headingAlignment": "center",
+            "headingSpans": [
+                { "text": "Best", "color": "#FC2810", "weight": "700" },
+                { "text": "IELTS", "color": "#006E75", "weight": "700" },
+                { "text": "and", "color": "#FC2810", "weight": "700" },
+                { "text": "English", "color": "#006E75", "weight": "700" },
+                { "text": "Coaching", "color": "#006E75", "weight": "700" },
+                { "text": "in", "color": "#FC2810", "weight": "700" },
+                { "text": "Delhi", "color": "#006E75", "weight": "700" }
+            ]
+        },
+        "variant": {
+            "left-decor": "d",
+            "promo-conetent": "a",
+            "promo-bg": "d",
+            "promo-fg": "c"
+        }
+    }
+}

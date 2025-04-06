@@ -1,0 +1,107 @@
+{
+    "heading1": {
+        "headingAlignment": "center",
+        "headingSpans": [
+            { "text": "Personalised", "color": "#FC2810", "weight": "700" },
+            { "text": "Spoken", "color": "#000000", "weight": "600" },
+            { "br": true },
+            { "text": "English Classes", "color": "#FC2810", "weight": "700" }
+        ]
+    },
+    "heading2": {
+        "headingAlignment": "left",
+        "headingSpans": [
+            { "text": "English", "color": "#006E75", "weight": "800" },
+            { "text": "Speaking", "color": "#FC2810", "weight": "800" },
+            { "br": true },
+            { "text": "Classes", "color": "#FC2810", "weight": "800" },
+            { "text": "Delhi", "color": "#006E75", "weight": "800" }
+        ]
+    },
+    "headin3": {
+        "headingAlignment": "left",
+        "headingSpans": [
+            { "text": "Online", "color": "#FC2810", "weight": "350" },
+            { "text": "English", "color": "#006E75", "weight": "700" },
+            { "br": true },
+            { "text": "Speaking", "color": "#006E75", "weight": "700" },
+            { "text": "Course", "color": "#FC2810", "weight": "350" }
+        ]
+    },
+    "heading4": {
+        "headingAlignment": "center",
+        "headingSpans": [
+            { "text": "Advanced", "color": "#006E75", "weight": "700" },
+            { "br": true },
+            { "text": "English", "color": "#FC2810", "weight": "700" },
+            { "text": "Speaking", "color": "#FC2810", "weight": "700" },
+            { "text": "Course", "color": "#FC2810", "weight": "700" }
+        ]
+    },
+    "heading5": {
+        "headingAlignment": "left",
+        "headingSpans": [
+            { "text": "Best", "color": "#FC2810", "weight": "800" },
+            { "text": "IELTS", "color": "#006E75", "weight": "800" },
+            { "text": "Coaching", "color": "#FC2810", "weight": "800" },
+            { "br": true },
+            { "text": "in", "color": "#FC2810", "weight": "800" },
+            { "text": "Delhi", "color": "#006E75", "weight": "800" },
+            { "text": "NCR", "color": "#006E75", "weight": "800" }
+        ]
+    },
+    "heading6": {
+        "headingAlignment": "left",
+        "headingSpans": [
+            { "text": "Best", "color": "#FC2810", "weight": "800" },
+            { "text": "PTE", "color": "#006E75", "weight": "800" },
+            { "text": "Coaching", "color": "#FC2810", "weight": "800" },
+            { "br": true },
+            { "text": "in", "color": "#FC2810", "weight": "800" },
+            { "text": "Delhi", "color": "#006E75", "weight": "800" }
+        ]
+    },
+    "heading7":{
+        "headingAlignment": "center",
+        "headingSpans": [
+            { "text": "Personality", "color": "#FC2810", "weight": "700" },
+            { "br": true },
+            { "text": "Development", "color": "#006E75", "weight": "700" },
+            { "br": true },
+            { "text": "Course", "color": "#FC2810", "weight": "700" }
+        ]
+    },
+    "heading8":{
+        "headingAlignment": "center",
+        "headingSpans":[
+            { "text": "Best", "color": "#FC2810", "weight": "350" },
+            { "text": "PTE", "color": "#006E75", "weight": "700" },
+            { "text": "Coaching", "color": "#006E75", "weight": "700" },
+            { "text": "Online", "color": "#FC2810", "weight": "350" }
+        ]
+    },
+    "heading9": {
+        "headingAlignment": "center",
+        "headingSpans": [
+            { "text": "Best", "color": "#FC2810", "weight": "700" },
+            { "text": "PTE", "color": "#006E75", "weight": "700" },
+            { "text": "and", "color": "#FC2810", "weight": "700" },
+            { "text": "English", "color": "#006E75", "weight": "700" },
+            { "text": "Coaching", "color": "#006E75", "weight": "700" },
+            { "text": "in", "color": "#FC2810", "weight": "700" },
+            { "text": "Delhi", "color": "#006E75", "weight": "700" }
+        ]
+    },
+    "heading10": {
+        "headingAlignment": "center",
+        "headingSpans": [
+            { "text": "Best", "color": "#FC2810", "weight": "700" },
+            { "text": "IELTS", "color": "#006E75", "weight": "700" },
+            { "text": "and", "color": "#FC2810", "weight": "700" },
+            { "text": "English", "color": "#006E75", "weight": "700" },
+            { "text": "Coaching", "color": "#006E75", "weight": "700" },
+            { "text": "in", "color": "#FC2810", "weight": "700" },
+            { "text": "Delhi", "color": "#006E75", "weight": "700" }
+        ]
+    }
+}

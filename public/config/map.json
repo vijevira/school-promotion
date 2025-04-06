@@ -1,0 +1,20 @@
+{
+    "left-decor": {
+        "arc": "a",
+        "square": "b",
+        "pipe": "c",
+        "pipe&arc": "d"
+    },
+    "right-decor": {},
+    "image-bg": {
+        "bottom-right-rectangle": "a",
+        "curved-trapazium": "d",
+        "full-rectangle": "c",
+        "top-left-buttom-right-rectangle": "b"
+    },
+    "image-fg": {
+        "type-a-bg": "a",
+        "type-b-bg": "b",
+        "trapazium-designed": "c"
+    }
+}
